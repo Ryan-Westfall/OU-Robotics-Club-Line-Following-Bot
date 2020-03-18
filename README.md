@@ -3,9 +3,9 @@
   
 
 This is Team Awsome's Line Following Robot for the OU Robotics club!
-<iframe src="https://drive.google.com/file/d/1e2PGybNSUZAuZPw3-pePm0dlNLF4V5ip/preview" width="640" height="480"></iframe>
+<img src="resources/robotics.jpg" width="640" height="480">
 
 
 # Video
 
-<a href="https://imgur.com/DjxRUEY"><img src="https://i.imgur.com/DjxRUEY.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/DjxRUEY"><img src="./resources/robot.gif" title="source: imgur.com" /></a>
